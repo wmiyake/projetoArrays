@@ -1,0 +1,6 @@
+C:\Users\Wellington Miyake\source\repos\ProjetoArrays\ProjetoArrays\bin\Debug\ProjetoArrays.exe
+C:\Users\Wellington Miyake\source\repos\ProjetoArrays\ProjetoArrays\bin\Debug\ProjetoArrays.pdb
+C:\Users\Wellington Miyake\source\repos\ProjetoArrays\ProjetoArrays\obj\Debug\ProjetoArrays.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\ProjetoArrays\ProjetoArrays\obj\Debug\ProjetoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\ProjetoArrays\ProjetoArrays\obj\Debug\ProjetoArrays.exe
+C:\Users\Wellington Miyake\source\repos\ProjetoArrays\ProjetoArrays\obj\Debug\ProjetoArrays.pdb
